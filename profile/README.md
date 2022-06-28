@@ -1,31 +1,41 @@
-# Hi there! 👋
+# Live long and prosper! 🖖
 
-<a href="https://www.octolab.org/" target="_blank">  
+<a href="https://lifeos.company/" target="_blank">  
   <img align="right" width="350" alt="OctoLab's mascot"  
-       src="https://cdn.octolab.org/geek/octolab.png" />  
+       src="https://cdn.octolab.org/hero/sage.png" />  
 </a>
 
-We are a developer-centric community of open-source enthusiasts. Our mission is to identify the unique needs during development and find the most fitting solutions for them.
+In today's world, the sheer volume of information and the pace of
+our lives are increasingly becoming sources of stress. We are so
+[afraid of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out)
+on something important that we keep loading ourselves with this
+ever-growing data stream.[^1]
 
-## Solution discovery
+Our personal and professional lives are in dissonance, exacerbated with each
+new phase of digital transformation. Remote work, endless meetings,
+frequent changes, and a mountain of information to absorb the reason
+for [occupational burnout](https://en.wikipedia.org/wiki/Occupational_burnout).[^2]
 
-🔭 Our journey of discovery is thoroughly documented [here][Octospot]. The finest open-source solutions we've encountered are curated at [AwesomenOSS][]. And for those challenges, if we haven't found an existing solution, we create our own and share them with everyone.
+But what if we could process more data **without risking** emotional burnout?
+Can we **scale our capabilities** without exerting ourselves excessively?
+Remember everything that interests us, anytime, in **unlimited quantities**.
+Remember important events and tasks. Become mindful and serene.
 
-## Automation
+At [OctoLab][], we believe it's possible, and our mission is to make these
+possibilities a reality! How?
 
-🤖 We have a distaste for repetition, especially in mundane tasks. That's why, in [this project][Octomation], we've compiled everything related to the automation of routine tasks and the templating of approaches and solutions.
+Life will be better with [✨sparkle][Sparkle] in mind and [🤹tact][Tact] in action!
 
-## Product development
+[OctoLab]: https://github.com/octolab
+[Sparkle]: https://github.com/withsparkle
+[Tact]:    https://github.com/tact-app
 
-🎁 We also focus on developing human-centric products to enhance our users' quality of life. You can explore our product sandbox [here][Octopods]. Our experimental endeavors are housed in separate organizations: [LifeOS][], [Sparkle][], and [Tact][].
+[^1]: Fear of missing out (FOMO) is apprehension that one is either not
+      knowing about or missing out on information, events, experiences,
+      or life decisions that could make one's life better.
 
-[AwesomenOSS]:  https://awesomenoss.octolab.org/
-[Octomation]:   https://github.com/octomation
-[Octopods]:     https://github.com/octopot
-[Octospot]:     https://github.com/under-the-hood
-[LifeOS]:       https://github.com/lifeosm
-[Tact]:         https://github.com/tact-app
-[Sparkle]:      https://github.com/withsparkle
+[^2]: Occupational burnout is a psychological syndrome emerging as a prolonged
+      response to chronic interpersonal stressors on the job.
 
 <img align="right" alt="profile views"
-     src="https://komarev.com/ghpvc/?username=octolab&label=views&color=grey" />
+     src="https://komarev.com/ghpvc/?username=lifeosm&label=views&color=grey" />
